@@ -1,0 +1,6 @@
+{
+  "name": "ZIONOVA",
+  "description": "The Christian Media Experience - A modern, scalable Christian digital media platform featuring Gospel Music, Podcasts, Sermons, Video, Community, and Events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
